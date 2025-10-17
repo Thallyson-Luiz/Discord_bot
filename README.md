@@ -1,6 +1,7 @@
 # Discord Bot 🤖
 
 Um bot personalizável para Discord, desenvolvido para automatizar tarefas, gerenciar comunidades e adicionar comandos interativos.
+## ❗🔴 Atenção, Ainda esta em desenvolvimento e não se encontra pronto para uso fora do ambiente de desenvolvimento. 🔴❗
 
 ## 📋 Pré-requisitos
 
